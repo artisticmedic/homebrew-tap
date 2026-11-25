@@ -1,6 +1,6 @@
 # Tim Gailey's Homebrew tap
 
-Mac apps by [Tim Gailey](https://timgailey.com/apps/capture-machine/).
+Mac apps by [Tim Gailey](https://timgailey.com).
 
 ```sh
 brew install --cask artisticmedic/tap/capture-machine
